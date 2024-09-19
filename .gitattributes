@@ -1,0 +1,4 @@
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.pyc filter=lfs diff=lfs merge=lfs -text
+Triton_inference/model_repository/en_hi_nmt/1/translator/model.bin filter=lfs diff=lfs merge=lfs -text
+Triton_inference/model_repository/hi_en_nmt/1/translator/model.bin filter=lfs diff=lfs merge=lfs -text
